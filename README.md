@@ -1,4 +1,4 @@
-![Logo](cp.png)
+![Logo](whatsap 2.jpeg)
 
 Welcome to Youness’s Cybersecurity Portfolio!
          A modern portfolio website designed to showcase my cybersecurity projects, penetration testing labs, and technical skills.
@@ -7,7 +7,7 @@ It is fully responsive, interactive, and optimized to demonstrate practical secu
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+
 
 ---
 
