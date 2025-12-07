@@ -1,11 +1,8 @@
 ![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
-
-Welcome to **Amine's Portfolio Showcase**!  
-A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
-It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
-
+Welcome to Youness’s Cybersecurity Portfolio!
+         A modern portfolio website designed to showcase my cybersecurity projects, penetration testing labs, and technical skills.
+It is fully responsive, interactive, and optimized to demonstrate practical security knowledge across desktop, tablet, and mobile devices.
 ---
 
 ## Live Demo 🚀
@@ -14,62 +11,48 @@ You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.
 
 ---
 
-## 🌟 Website Sections
+Home: Cybersecurity introduction with hacker-style avatar and short professional description
 
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
-- **Footer**: Quick navigation links and social media links
+About: Background in cybersecurity, ethical hacking journey, tools & technologies, and skill cards
 
----
+Projects: Showcase of security labs, penetration testing projects, and vulnerability research
 
-## ⚡ Features
+Services: Security services including web security testing, network assessment, and vulnerability analysis
 
-- Dark theme with **blue accent color** for highlights  
-- Smooth scroll navigation between sections  
-- Fully **responsive design** for desktop, tablet, and mobile  
-- Hover effects and animations for buttons, cards, and links  
-- Contact form with validation  
-- Interactive social links  
+Contact: Secure contact form and links to LinkedIn, GitHub, and email with interactive hover effects
+
+Footer: Quick navigation links and professional social media links
 
 ---
 
-## 🛠 Technologies Used
+echnologies & Tools Used
 
-- **HTML5** – Structure and semantic content  
-- **CSS3** – Styling, responsive layouts, Flexbox & Grid  
-- **JavaScript (Vanilla JS)** – Interactivity and animations  
-- **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
+HTML5 – Building secure and semantic web structures
 
+CSS3 – Responsive design, layouts, and UI security best practices
+
+JavaScript (Vanilla JS) – Secure interactivity and dynamic content
+
+Font Awesome / Boxicons – Professional security-themed icons
+
+AOS.js – Smooth scroll-based animations
+
+Python – Security scripting and automation
+
+Kali Linux Tools – Nmap, Burp Suite, Metasploit, Wireshark
 ---
-
-## License
-
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
-
----
-
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
 
  ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: black1black234b@gmail.com   
+- Location: Rabat, Morroco 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/youness-boussedari-34a93136b?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- GitHub: [GitHub](https://github.com/Anonymous25-25)  
+- Instagram: [Instagram](https://www.instagram.com/anony_mous_20_00?igsh=ZzR0eGk5ajFjdTNr)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by YOUNESS **
 
-
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
